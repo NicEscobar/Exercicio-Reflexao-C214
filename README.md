@@ -1,5 +1,11 @@
 # Exercício Prático Sobre Reflexão e Anotações
 
+## Sobre:
+
+• Linguagem: Java
+
+• IDE: Eclipse
+
 ##  Tarefa:
 
 • Crie uma classe java capaz de recuperar e extrair parâmetros configurados em  anotações.
@@ -14,5 +20,9 @@ A sua tarefa será criar a classe AnnotationReader capaz de recuperar essas anot
 ## Resumo:
 
 • Criar e implementar a classe AnnotationReader;
+
 • Criar a anotação @NumberToSum;
+
 • Recuperar os parâmetros configurados nas anotações.
+
+
