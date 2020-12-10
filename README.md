@@ -1,6 +1,6 @@
 # Exercício Prático Sobre Reflexão e Anotações
 
-##Tarefa:
+##  Tarefa:
 
 • Crie uma classe java capaz de recuperar e extrair parâmetros configurados em  anotações.
 
@@ -11,7 +11,7 @@ solução. Observe que existe um parâmetro numérico nas anotações.
 
 A sua tarefa será criar a classe AnnotationReader capaz de recuperar essas anotações, e fazer a soma de todos os parâmetros configurados nas anotações.
 
-##Resumo:
+## Resumo:
 
 • Criar e implementar a classe AnnotationReader;
 • Criar a anotação @NumberToSum;
